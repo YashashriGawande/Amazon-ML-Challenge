@@ -8,7 +8,7 @@ The goal is to develop a machine learning model that can predict the length dime
 
 To build a machine learning model that can predict product length from catalog metadata.
 
-# Team Members 
+# Developers 
 
 
 
