@@ -10,5 +10,8 @@ To build a machine learning model that can predict product length from catalog m
 
 # Developers 
 
+@YashashriGawande 
+
+@nimalebhagyashri 
 
 
